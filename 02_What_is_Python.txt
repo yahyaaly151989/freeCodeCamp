@@ -1,0 +1,33 @@
+# ========================= What is Python? =========================
+1- What is Python?
+---> High-level programming language
+---> Interpreted programming language
+---> Interactive
+---> Object-Oriented (OOP)
+---> Free and open source
+
+2- Why to Learn Python?
+---> Easy to learn
+---> Easy to install
+---> Error handling and debugging
+---> Cross platform (Windows, MacOS, Linux)
+---> Supports modules and packages
+---> It has a large community
+---> Expressive
+---> It is required for large corporations as well as master's and PhD programs.
+---> ...
+
+3- What Can I Do with Python?
+---> Web development
+---> Machine learning and Data science
+---> Hacking
+---> Desktop GUI
+---> Web scraping applications
+---> ...
+
+4- What I need to Start Learning?
+---> Download Python 
+---> Text Editor or IDE (Visual Studio Code or PyCharm)
+---> Python Extension
+
+

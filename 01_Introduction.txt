@@ -1,0 +1,28 @@
+# ========================= Introduction and What is Programming? =========================
+Programming
+Input
+Output
+Programming Language
+Maching Language - Binary Code => 0 1
+High Level Programming Language
+Low Level Programming Language
+Compiled Language => C, C++, Java ...
+Interpreted language => Python, JavaScript ...
+Source Code
+Syntax
+
+
+Python:
+if 10 > 0:
+    print("The number is positive")
+else:
+    print("The number is negative")
+
+JavaScript:
+if (10 > 0) {
+    console.log("The number is positive")
+} else {
+    console.log("The number is negative")
+}
+
+Code Editor or IDE Integrated Development Environment

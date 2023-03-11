@@ -1,0 +1,6 @@
+# ========================= Download Python and VSCode =========================
+
+
+---> Download Python 
+---> Text Editor or IDE (Visual Studio Code or PyCharm)
+---> Python Extension
